@@ -13,7 +13,7 @@
     width: 230px;
 }
 
-.travel_mainDiv h5 , .travel_mainDiv p {
+.travel_mainDiv h5,.travel_mainDiv p {
     margin-left: 20px;
 }
 
@@ -32,4 +32,21 @@
 
 .movie_text span {
     color: #ff7700;
+}
+
+.environment_li {
+    margin-top: 13px;
+}
+
+.environment_li h4 {
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.environment_li img {
+    border-radius: 25px;
+}
+
+.environment_li p {
+    margin-top: 10px;
 }
